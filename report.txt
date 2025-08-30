@@ -2,4 +2,6 @@ Introduction:
 
 details:
 
+methodology:
+
 Conclusion:
